@@ -1,0 +1,57 @@
+#Koridor 1
+Pool Damri
+RTH Imam Bonjol Padang
+GOR H Agus Salim
+Masjid Raya Sumatera Barat
+DPRD Provinsi Sumatera Barat
+Basko Grand Mall
+Simpang Labor
+Universitas Negeri Padang Air Tawar
+Simpang Tunggul Hitam
+Simpang GIA
+Asrama Haji Padang
+Perumahan Monang Indah
+SMP Negeri 15 Padang
+Fakultas Kedokteran Universitas Negeri Padang
+Terminal Anak Air
+Kayu Kalek
+Kompleks Mega Permai
+fawwas
+#Koridor 2
+RTH Imam Bonjol Padang
+Masjid Nurul Iman
+Pasar Gaung
+Toko Abd Gani
+Masjid Al Qahaar
+Pabrik Karet Sungai Beremas
+Pantai Nirwana
+Kantor VTS Bungus
+Pisang Salay Citra Minang
+SDN 06 Cindakir
+Cecen Cellular
+Naldi Cell/Kedai Aura
+Puskesmas Pembantu Bungus
+SDN 12 Teluk Kabung
+Simpang Sungai Pisang
+#Koridor 3
+Terminal Anak Air
+Simpang Kalumpang
+SBPU Anak Air
+Simpang Koto Tuo
+Simpang Aia Pacah Permai
+Simpang Maransi
+FKG Baiturrahmah
+Universitas Terbuka
+SPBU Taruko
+Kantor Camat Kuranji
+Simpang Kalumbuk
+Polsek/ Pukesmas Kuranji
+Utama Furniture
+Masjid Jamiatul Huda
+RS Semen Padang Hospital
+Poliklinik Fitria
+Pool ALS
+Simpang Lubeg
+Simpang Beringin
+Pampangan
+Lantamal
